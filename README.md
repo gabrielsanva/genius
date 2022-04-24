@@ -14,4 +14,4 @@ Olá, pessoal. Este é um simples jogo de memória feito com HTML, CSS/Bootstrap
 
 ## Mobile
 
-![Genius Mobile (Responsive) Version](img/desktop.jpeg)
+![Genius Mobile (Responsive) Version](img/mobile.jpeg)
