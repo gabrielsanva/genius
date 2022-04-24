@@ -1,6 +1,6 @@
 # Genius: a memory game 🧠
 
-## [🎮 Click Here To Play / Clique Aqui Para Jogar ](https://genius-gabrielsanva.vercel.app/)
+## [🎮 Click Here To Play / Clique Aqui Para Jogar](https://genius-gabrielsanva.vercel.app/)
 
 ## English
 
